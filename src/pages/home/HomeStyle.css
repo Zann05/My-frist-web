@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Nunito Sans', sans-serif;
+}
+.container {
+  background-image: url('https://cutewallpaper.org/22/genshin-impact-desktop-aesthetic-wallpapers/2413922843.jpg');
+  background-size: 1550px;
+  background-color: #FEFBF6;
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+}
+.containerPesan {
+  background-image: url('https://2.bp.blogspot.com/-YSRL7xmCD2Q/XQ8eHaJ9wkI/AAAAAAAAHtA/0-bVcL3HJmQ4eCCCJY8Sq9y0tGKoVw3IwCKgBGAs/w0/genshin-impact-uhdpaper.com-4K-1.jpg');
+  background-size: 1550px;
+  background-color: #FEFBF6;
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.image {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  width: 110px; 
+  height: 110px;
+  border-radius: 30px;
+}
+.myself {
+  color: #ffffffbc;
+  margin-top: 0px;
+  font-family: Montserrat;
+}
+.words {
+  background-color: #000000ab;
+  width: 40%;
+  padding: 20px;
+  height: 150px;
+  border-radius: 20px;
+  margin-top: 0px;
+}
+.pembukaan {
+  font-family: Montserrat;
+  color: #fff;
+}
+.send {
+  color: #ffffff;
+  font-family: Montserrat;
+}
+.pesanButton {
+  background-color:#fff;
+  width: 14%;
+  padding: 8px;
+  height: 20px;
+  border-radius: 20px;
+  margin-top: 5px;
+  text-align: center;
+}
+.nama {
+  margin-top: 14px;
+  font-family: Montserrat;
+  font-size: 1.5em;
+  color: #ffffffbc;
+}
+.namaPesan {
+  margin-top: 14px;
+  font-family: Montserrat;
+  font-size: 1.8em;
+  color: #000000bc;
+}
+.msglist {
+  font-family: Montserrat;
+}
+.formContainer {
+  background-color: #000000ab;
+  width: 40%;
+  padding: 20px;
+  height: 54px;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+
+.formPesan {
+  font-family: Montserrat;
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  text-align: center;
+  height: 100%;
+  resize: none;
+  padding: 16px;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+.btnKirim {
+    background-color:#1667B6;
+    color: #fff;
+    border:none; 
+    border-radius:8px; 
+    padding:8px;
+    min-width: 150px;
+    margin-top: 16px;
+    cursor: pointer;
+    font-weight: 700;
+}
+.btnKirim:hover {
+  background-color: #3f78b1;
+}
+.linkLihatPesan {
+  text-decoration: none;
+}
+.IG {
+  margin-right: 20px;
+  margin-left: 20px;
+  width: 25px;
+  height: 25px;
+}
+.twitter {
+  margin-right: 20px;
+  margin-left: 20px;
+  width: 25px;
+  height: 25px;
+}
+.WA {
+  margin-right: 20px;
+  margin-left: 20px;
+  width: 25px;
+  height: 25px;
+}
+.TikTok {
+  margin-right: 20px;
+  margin-left: 20px;
+  width: 25px;
+  height: 25px;
+}

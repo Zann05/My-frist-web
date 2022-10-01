@@ -1,0 +1,24 @@
+.cardContainer {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-gap: 1rem;
+}
+
+.linkKirimPesan {
+  text-decoration: none;
+}
+.imagePesan {
+  margin-top: 50px;
+  width: 120px;
+  height: 120px;
+  border-radius: 0px;
+}
+.msgButton {
+  background-color:#fff;
+  width: 14%;
+  padding: 8px;
+  height: 20px;
+  border-radius: 20px;
+  margin-top: 5px;
+  text-align: center;
+}
